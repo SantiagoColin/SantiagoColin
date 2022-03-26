@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SantiagoColin
-- 👀 I’m interested in staticas
+- 👋 Hi, I’m @SantiagoColin 2
+- 👀 I’m interested in staticas 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me on santiagocolzam@gmail.com
