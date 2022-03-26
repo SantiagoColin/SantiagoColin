@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SantiagoColin 2
+- 👋 Hi, I’m @SantiagoColin 2.1
 - 👀 I’m interested in staticas 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data analysis
